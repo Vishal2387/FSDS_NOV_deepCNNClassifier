@@ -13,4 +13,4 @@ joblib
 types-PyYAML
 scipy
 mlflow==1.26.1
--e .
+-e .        ##we need to install local package which is present in scr folder
